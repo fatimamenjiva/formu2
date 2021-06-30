@@ -1,0 +1,20 @@
+ [type=text], select {
+    width: 98%;
+  padding: 10px 10px;
+  
+  border: 2px solid #0d407f;
+  font-family: cursive;
+}
+ [ class=form-select]{
+width: 100%;
+}
+[for=validationCustom02]{
+font-family: cursive;
+}
+
+[for=validationCustom04]{
+font-family: cursive;
+}
+div {
+  background-color: #a2cadf;
+  padding: 17px; }
